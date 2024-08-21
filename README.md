@@ -116,15 +116,17 @@ D. Data Visualization: The dataset is visualized in form of dashboard, reports a
 - What does the dashboard look like?
 
 
-![GIF of employees Dashboard](assets/images/employees.png)
+![PNG of employees Dashboard](assets/images/employees.png)
 
-![GIF of products Dashboard](assets/images/products.png)
+![PNG of products Dashboard](assets/images/products.png)
 
-![GIF oflead-time Dashboard](assets/images/lead-time.jpg)
+![PNG oflead-time Dashboard](assets/images/lead-time.jpg)
 
-![GIF oflead-time Dashboard](assets/images/downtime_analysis.png)
+![PNG ofdowntime_analysis Dashboard](assets/images/downtime_analysis.png)
 
+![PNG ofoverview Dashboard](assets/images/overview.png)
 
+![PNG ofoverview Dashboard](assets/images/overview.png)
 
 
    
