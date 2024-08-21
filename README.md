@@ -118,7 +118,7 @@ D. Data Visualization: The dataset is visualized in form of dashboard, reports a
 
 ![GIF of employees Dashboard](assets/images/employees.png)
 
-![GIF of Power BI Dashboard](assets/images/top_uk_youtubers_2024..gif)
+![GIF of products Dashboard](assets/images/products.png)
 
 
    
