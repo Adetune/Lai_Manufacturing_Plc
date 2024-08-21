@@ -107,6 +107,17 @@ C. Data Exploration &Analysis: The dataset is explored and analyzed to find tren
  
 D. Data Visualization: The dataset is visualized in form of dashboard, reports and sent to the stakeholders for effective decision-making.
 
+
+# Visualization 
+
+
+## Results
+
+- What does the dashboard look like?
+
+
+![GIF of Power BI Dashboard](assets/images/top_uk_youtubers_2024..gif)
+
    
 # Insights & Recommendation
  Sarah Llyod has produced and sold the highest quantity of products making her the most active employee. Victor Hernandez is the employee with the least produced and sold product
