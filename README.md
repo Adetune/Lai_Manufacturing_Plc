@@ -120,6 +120,10 @@ D. Data Visualization: The dataset is visualized in form of dashboard, reports a
 
 ![GIF of products Dashboard](assets/images/products.png)
 
+![GIF oflead-time Dashboard](assets/images/lead-time.jpg)
+
+
+
 
    
 # Insights & Recommendation
