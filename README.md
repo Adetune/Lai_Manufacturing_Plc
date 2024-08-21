@@ -122,6 +122,8 @@ D. Data Visualization: The dataset is visualized in form of dashboard, reports a
 
 ![GIF oflead-time Dashboard](assets/images/lead-time.jpg)
 
+![GIF oflead-time Dashboard](assets/images/downtime_analysis.png)
+
 
 
 
