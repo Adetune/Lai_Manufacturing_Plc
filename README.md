@@ -127,6 +127,8 @@ D. Data Visualization: The dataset is visualized in form of dashboard, reports a
 ![PNG ofoverview Dashboard](assets/images/overview.png)
 
 ![PNG ofquality_rate Dashboard](assets/images/quality_rate.png)
+
+![PNG of tooltip Dashboard](assets/images/tooltip.png)
  
 
    
